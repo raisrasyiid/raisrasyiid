@@ -24,6 +24,8 @@ If you're interested in getting to know me, please follow me on [Linkedin](https
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
 </div>
 
+<br>
+
 [![](https://visitcount.itsvg.in/api?id=raisrasyiid&label=Profile%20Views&color=1&icon=5&pretty=true)](https://visitcount.itsvg.in)
 
 <!--
