@@ -1,8 +1,12 @@
 ### Hi there 👋
 
+# 💫 About Me:
 🌱 I’m currently learning Node JS<br>💬 Ask me about PHP<br>📫 How to reach me raisrasyiid01@gmail.com<br>
 If you're interested in getting to know me, please follow me on [Linkedin](https://www.linkedin.com/in/ahmadalmachzumi-rr/).
 
+<br>
+
+# 📊 GitHub Stats:
 <p align="left">
 <a href="https://github.com/raisrasyiid">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=raisrasyiid&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
@@ -10,8 +14,12 @@ If you're interested in getting to know me, please follow me on [Linkedin](https
 </a>
 </p>
 
+<br>
 
-### :hammer_and_wrench: Languages and Tools :
+### :hammer_and_wrench: Tech Stack :
+
+![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white) ![CodeIgniter](https://img.shields.io/badge/codeigniter-%23FF2D20.svg?style=for-the-badge&logo=codeigniter&logoColor=white) ![NodeJS](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white)  ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+
 
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
