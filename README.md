@@ -1,8 +1,7 @@
 ### Hi there 👋
 
-Perkenalkan nama saya **AHMAD ALMACHZUMI RAIS RASYIID**.<br>
-Saya mahasiswa S1 Sistem Informasi .<br>
-Jika anda tertarik untuk berkenalan dengan saya, silakan ikuti akun [Linkedin](https://www.linkedin.com/in/ahmadalmachzumi-rr/) ya.
+🌱 I’m currently learning Node JS<br>💬 Ask me about PHP<br>📫 How to reach me raisrasyiid01@gmail.com<br>
+If you're interested in getting to know me, please follow me on [Linkedin](https://www.linkedin.com/in/ahmadalmachzumi-rr/).
 
 <p align="left">
 <a href="https://github.com/raisrasyiid">
@@ -25,6 +24,7 @@ Jika anda tertarik untuk berkenalan dengan saya, silakan ikuti akun [Linkedin](h
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
 </div>
 
+[![](https://visitcount.itsvg.in/api?id=raisrasyiid&icon=5&color=5)](https://visitcount.itsvg.in)
 
 <!--
 **raisrasyiid/raisrasyiid** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
