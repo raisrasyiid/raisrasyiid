@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 # 💫 About Me:
-🌱 I’m currently learning Laravel<br>💬 Ask me about PHP<br>📫 How to reach me raisrasyiid01@students.amikom.ac.id<br>
+🌱 I’m currently learning Laravel<br>💬 Ask me about PHP especially Laravel and CodeIgniter <br>📫 How to reach me raisrasyiid01@students.amikom.ac.id<br>
 If you're interested in getting to know me, please follow me on [Linkedin](https://www.linkedin.com/in/ahmadalmachzumi-rr/).
 
 <br>
