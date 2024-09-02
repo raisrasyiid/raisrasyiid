@@ -3,6 +3,7 @@
 # 💫 About Me:
 🌱 I’m currently learning Laravel<br>💬 Ask me about PHP<br>📫 How to reach me raisrasyiid01@gmail.com<br>
 If you're interested in getting to know me, please follow me on [Linkedin](https://www.linkedin.com/in/ahmadalmachzumi-rr/).
+You can preview my portfolio on https://raisrasyiid.github.io/new_portfolio/. 
 
 <br>
 
