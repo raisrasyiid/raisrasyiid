@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 # 🙋‍♂️ About Me:
-🌱 I’m currently learning API<br>💬 Ask me about PHP<br>Monolithian enthusiast✨<br>📫 How to reach me raisrasyiid01@gmail.com<br>
+🌱 I’m currently learning API<br>💬 Ask me about PHP<br>📫 How to reach me raisrasyiid01@gmail.com<br>
 If you're interested in getting to know me, please follow me on [Linkedin](https://www.linkedin.com/in/ahmadalmachzumi-rr/).<br><br>
 📝You can preview my portfolio on https://raisrasyiid.github.io/new_portfolio/. <br>
 
